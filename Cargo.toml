@@ -5,6 +5,7 @@ edition = "2021"
 
 [dependencies]
 axum = "0.5.1"
+google-photoslibrary1 = "*"
 serde = "1.0.136"
 serde_json = "1.0.79"
 tokio = { version = "1.17.0", features = ["full"] }
